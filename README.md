@@ -28,7 +28,7 @@ python number_guessing_game.py
 
 ---
 
-##☕ Java Version
+## ☕ Java Version
 
 ### File
 - `NumberGuessingGame.Java`
