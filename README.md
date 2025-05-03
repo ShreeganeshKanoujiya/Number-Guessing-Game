@@ -25,6 +25,7 @@ Make sure you have Python installed. Then run:
 
 ```bash
 python number_guessing_game.py
+```
 
 ---
 
@@ -40,3 +41,4 @@ Make sure you have Java installed. Then run:
 ```bash
 javac NumberGuessingGame.java
 java NumberGuessingGame
+```
