@@ -1,7 +1,7 @@
 import random
 
 def number_guessing_game():
-    number_to_guess = random.randint(1,100)
+    number_to_guess = random.randint(1,100) #Random number between 1 to 100.
     number_to_tries = 0
     has_guessed_correctly = False
 
@@ -11,6 +11,7 @@ def number_guessing_game():
     while not has_guessed_correctly:
         guess_input = input("Enter your guess number: ")
 
+        #Input validation
         if not guess_input.isdigit():
             print("That's not a valid number, try again.")
             continue
